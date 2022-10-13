@@ -1,0 +1,16 @@
+name: Country
+version: '${project.version}'
+main: xyz.hiziki.country.Main
+api-version: 1.19
+prefix: Country
+authors: [ hi_kun_JPN ]
+description: 国の作成と管理ができるプラグインです。
+website: www.hiziki.xyz
+commands:
+  country:
+    aliases: c
+    usage: /<command>
+
+  money:
+    aliases: m
+    usage: /<command>
